@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋-->
+![COBBY_BADGE](https://cobby-play.com/api/user/badge/JYKkkk)
 <!--
 **JYKkkk/JYKkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
